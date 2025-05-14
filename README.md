@@ -51,7 +51,7 @@ This keeps it professional, highlights Ubuntu's advantages, and directs users to
 ## Usage
 1. Clone repository:
    ```bash
-   git clone git@github.com:swthetnt/SCRIPTFORTOOLS.git
+   git clone https://github.com/swthetnt/SCRIPTFORTOOLS.git
    cd SCRIPTFORTOOLS
 
 
