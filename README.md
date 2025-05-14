@@ -1,9 +1,6 @@
 # SCRIPTFORTOOLS
 BEST LINUX DISTRO FOR TECHNICAL AND NETWORK ENGINEERS AND SECURITY PERSONNEL
 
-Here's a concise, professional statement you can use for your GitHub repo or documentation:
-
----
 
 ### **Ubuntu: The Ultimate Stable Platform for Ethical Hacking**  
 
