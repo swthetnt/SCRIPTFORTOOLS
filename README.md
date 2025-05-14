@@ -36,7 +36,6 @@ sudo ./install.sh # Installs tools
 
 This keeps it professional, highlights Ubuntu's advantages, and directs users to your scripts. You can expand details in the full `README.md`.  
 
-Would you like me to tweak any part for your specific audience?
 
 
 # Ubuntu Security Tools Installer
