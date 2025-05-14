@@ -51,7 +51,7 @@ This keeps it professional, highlights Ubuntu's advantages, and directs users to
 ## Usage
 1. Clone repository:
    ```bash
-   git clone https://github.com/yourusername/ubuntu-security-tools.git
+   git clone git@github.com:swthetnt/SCRIPTFORTOOLS.git
    cd ubuntu-security-tools
 
 
